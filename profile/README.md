@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 We are Zedalite 🪐
+
+A creative trio, united by passion and code, on a mission to craft innovative apps and turn digital dreams into reality.
 
 <!--
 
